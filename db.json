@@ -1,4 +1,1564 @@
-
 {
-  
+  "products": [
+    {
+      "id": "92b7e38f-1a45-41d6-b9b3-ea0c49a3bfa1",
+      "title": "Samsung Galaxy S23 Ultra 5G",
+      "description": "Berisi kAMERA 1.0x BESAR, 1.0-inch LCD dengan resolusi 8MP dan warna belakang layar putih.",
+      "category": "electronics",
+      "stock": 25,
+      "price": 999.99
+    },
+    {
+      "id": "0c0e2d41-3b18-4674-bf8a-d31eacf0b2a3",
+      "title": "AirPod Pro 3rd Generation",
+      "description": "Merupakan kursor kering terbaik dengan akustik yang unggul, tahan hentuk, dan layanan baterai yang lama.",
+      "category": "electronics",
+      "stock": 18,
+      "price": 299.99
+    },
+    {
+      "id": "6a7e3b5f-4d2b-4231-bd5c-2d097ecf7a2d",
+      "title": "Laptop MacBook Pro 16 inch (M2)",
+      "description": "Merupakan laptop dengan CPU M2, 24GB RAM, dan layanan baterai yang luwuh.",
+      "category": "electronics",
+      "stock": 15,
+      "price": 1999.99
+    },
+    {
+      "id": "8b03f4a2-79c1-4e0d-bff3-81e2d5e8a6b4",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "electronics",
+      "stock": 30,
+      "price": 259.99
+    },
+    {
+      "id": "e8c1d0f4-62a7-453b-b4d2-c61f84abdc25",
+      "title": "Dvd Player 4k UHD",
+      "description": "Merupakan DVD player dengan kualitas tampilan 4K, layanan audio 3D, dan USB otomatis.",
+      "category": "electronics",
+      "stock": 10,
+      "price": 79.99
+    },
+    {
+      "id": "2d7f6e8a-3b5c-4e2d-bf8e-d0a8b9e15e5f",
+      "title": "Baju Polo Black - Size S",
+      "description": "Merupakan baju kaya dengan material premium, ikon logotekstip dan ukuran yang cocok.",
+      "category": "clothing",
+      "stock": 28,
+      "price": 49.99
+    },
+    {
+      "id": "c3b5a1d0-ef6e-4f7b-ba1c-cfc8d2bf7795",
+      "title": "T-shirt T-Shirt - Size M",
+      "description": "Merupakan t-shirt dengan warna natural dan material ringsang.",
+      "category": "clothing",
+      "stock": 32,
+      "price": 24.99
+    },
+    {
+      "id": "5d8e1b0f-8c2e-43df-b679-d4a56b9a3fbc",
+      "title": "Sepatu Running Asics Gel Lyte III - Size 41",
+      "description": "Merupakan sepatu running dengan material kaya dan tampilancomfortable.",
+      "category": "furniture",
+      "stock": 5,
+      "price": 89.99
+    },
+    {
+      "id": "c7a325e1-4d6b-482c-b4cd-ea04d0c857e5",
+      "title": "Meja Kursi - Wood Table - Size Small",
+      "description": "Merupakan meja kursi dari kayu dengan tampilan classic dan nyaman.",
+      "category": "furniture",
+      "stock": 12,
+      "price": 495.0
+    },
+    {
+      "id": "b8c6a5e3-7fbd-46d4-bf33-c80d1a4d0e1a",
+      "title": "Kapal Selera - Red Design - Size 22",
+      "description": "Merupakan kapal selera dengan desain menarik, layanan kualitas premium.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 795.0
+    },
+    {
+      "id": "f6e8d2c3-4e1b-40d6-b88c-d78eaf8a72c3",
+      "title": "Sehat - Handbag Black - Size Medium",
+      "description": "Merupakan hand bag dari kulit kaya dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 15,
+      "price": 98.0
+    },
+    {
+      "id": "4d1e7b3a-2c7a-4f8b-bd6b-d3e8b89e87df",
+      "title": "Kursi Kursi - Leather Sofa - Size Large",
+      "description": "Merupakan kursi dari kulit leluwHDR dengan tampilan comfort and style.",
+      "category": "furniture",
+      "stock": 3,
+      "price": 250.0
+    },
+    {
+      "id": "9b41c8e8-5e6c-4e2a-b34d-d5b72c8e98ea",
+      "title": "Tobacco Pipe - Classic Design - Size 4 inches",
+      "description": "Merupakan PIPE classic dengan ukuran diameter dan desain menarik.",
+      "category": "furniture",
+      "stock": 1,
+      "price": 65.0
+    },
+    {
+      "id": "d8f2a7e4-34c9-444b-b8df-d1b2eacf5b89",
+      "title": "Jendela - Frosted Glass - Size 24x36cm",
+      "description": "Merupakan jendela dari kaca gugus dengan transparansi tinggi.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 79.0
+    },
+    {
+      "id": "a5b2e6c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Curtain - Heavy Cotton - 1x1m",
+      "description": "Merupakan kain kurti dari kisah ringan dengan tampilan padat.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 49.0
+    },
+    {
+      "id": "e6a3b1c7-65cb-48d4-bfbd-d5d1b2c679cd",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 18,
+      "price": 345.0
+    },
+    {
+      "id": "d7b2c9e5-efad-4b1b-bfdd-df5a4b63c0ea",
+      "title": "Baju - Polo - Size M - Black Color",
+      "description": "Merupakan baju kaya dengan ikon logotekstip dan ukuran yang cocok.",
+      "category": "furniture",
+      "stock": 22,
+      "price": 59.0
+    },
+    {
+      "id": "c8d4eef1-67b5-44a3-b8bd-d51d6e1e32bc",
+      "title": "Kursi Kursi - Leather loveseat - Size Medium",
+      "description": "Merupakan kursi dari kulit leluwhDR dengan tampilan comfort and style.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 125.0
+    },
+    {
+      "id": "3c2f4e69-7aef-4a6d-bf8b-d8367ea765ba",
+      "title": "Curtain - Heavy Cotton - 1x1m - Blue Color",
+      "description": "Merupakan kain kurti dari kisah ringan dengan tampilan padat.",
+      "category": "furniture",
+      "stock": 30,
+      "price": 45.0
+    },
+    {
+      "id": "b9e7c1a8-2aeb-4687-bd2e-d78eacf0a3d1",
+      "title": "Jendela - Frosted Glass - Size 24x36cm",
+      "description": "Merupakan jendela dari kaca gugus dengan transparansi tinggi.",
+      "category": "furniture",
+      "stock": 5,
+      "price": 70.0
+    },
+    {
+      "id": "e2d9b4c3-1a8f-43eb-b96e-d1d7dabdc644",
+      "title": "Meja - Coffee Table - Wood - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 15,
+      "price": 295.0
+    },
+    {
+      "id": "c4e8d6b7-934a-48af-b51e-d2e8b1c0e1e6",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 5,
+      "price": 80.0
+    },
+    {
+      "id": "b6c1f2a4-8f7d-40e3-b779-d3f9f526ab1c",
+      "title": "Kursi Kursi - Leather loveseat - Size Small",
+      "description": "Merupakan kursi dari kulit leluwhDR dengan tampilan comfort and style.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "a2b4c5d6-ef7a-4f3b-b9ad-d3e8b89e87df",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 30,
+      "price": 259.99
+    },
+    {
+      "id": "d1e6c7b8-4fba-4aef-b9ad-d9b2a3e1a2bc",
+      "title": "Tapestry - Handmade Art - Size Medium",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 70.0
+    },
+    {
+      "id": "c3d5e1f2-9a46-4e7b-b6d8-d4d5e3d0f2d7",
+      "title": "Curtain - Heavy Cotton - 1x1m",
+      "description": "Merupakan kain kurti dari kisah ringan dengan tampilan padat.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 60.0
+    },
+    {
+      "id": "aeb3c2d4-5aef-4b98-bdb7-d31eacf0b2a3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 35,
+      "price": 259.99
+    },
+    {
+      "id": "d5e7f8c0-6e4b-421d-bf8a-df9f8e9f9eb3",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 350.0
+    },
+    {
+      "id": "b9e7c1a8-2aeb-4687-bd2e-d78eacf0a3d1",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 350.0
+    },
+    {
+      "id": "a8d4b2e1-749c-46cb-b3cd-d6b9cdefghe9",
+      "title": "Kursi Kursi - Leather loveseat - Size Medium",
+      "description": "Merupakan kursi dari kulit leluwhDR dengan tampilan comfort and style.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 125.0
+    },
+    {
+      "id": "c4b3a4e6-9dab-4f37-bf07-d76c1e2d0e5a",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 30,
+      "price": 275.0
+    },
+    {
+      "id": "b6d8e9c4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tobacco Pipe - Classic Design - Size 4 inches",
+      "description": "Merupakan PIPE classic dengan ukuran diameter dan desain menarik.",
+      "category": "furniture",
+      "stock": 5,
+      "price": 60.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Jendela - Frosted Glass - Size 24x36cm",
+      "description": "Merupakan jendela dari kaca gugus dengan transparansi tinggi.",
+      "category": "furniture",
+      "stock": 5,
+      "price": 70.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja - Coffee Table - Wood - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 390.0
+    },
+    {
+      "id": "c7d1e8b4-efad-4b1b-bfdd-df5a4b63c0ea",
+      "title": "Kursi Kursi - Leather loveseat - Size Small",
+      "description": "Merupakan kursi dari kulit leluwhDR dengan tampilan comfort and style.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "b2c4d5a6-ef7a-4f3b-b9ad-d3e8b89e87df",
+      "title": "Curtain - Heavy Cotton - 1x1m - Blue Color",
+      "description": "Merupakan kain kurti dari kisah ringan dengan tampilan padat.",
+      "category": "furniture",
+      "stock": 30,
+      "price": 60.0
+    },
+    {
+      "id": "a7e8f9c2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 40,
+      "price": 259.99
+    },
+    {
+      "id": "d8e7f6c3-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 350.0
+    },
+    {
+      "id": "c9e1d2b7-67b5-44a3-b8bd-d51d6e1e32bc",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 7,
+      "price": 80.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 259.99
+    },
+    {
+      "id": "a8e3d4c5-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja - Coffee Table - Wood - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 35,
+      "price": 420.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Jendela - Frosted Glass - Size 24x36cm",
+      "description": "Merupakan jendela dari kaca gugus dengan transparansi tinggi.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 75.0
+    },
+    {
+      "id": "c4e8d6b7-934a-48af-b51e-d2e8b1c0e1e6",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 30,
+      "price": 295.0
+    },
+    {
+      "id": "d8e7f6c3-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 350.0
+    },
+    {
+      "id": "e7e8f9a0-2aeb-46cb-b3cd-d6b9cdefghe9",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "c3e6d7a1-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 50,
+      "price": 259.99
+    },
+    {
+      "id": "d8e7f6c3-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Jendela - Frosted Glass - Size 24x36cm",
+      "description": "Merupakan jendela dari kaca gugus dengan transparansi tinggi.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 75.0
+    },
+    {
+      "id": "b9e7c1a8-2aeb-4687-bd2e-d78eacf0a3d1",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c9e1d2b7-67b5-44a3-b8bd-d51d6e1e32bc",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 7,
+      "price": 80.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 55,
+      "price": 260.0
+    },
+    {
+      "id": "a8e3d4c5-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja - Coffee Table - Wood - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 35,
+      "price": 420.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Jendela - Frosted Glass - Size 24x36cm",
+      "description": "Merupakan jendela dari kaca gugus dengan transparansi tinggi.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 75.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja - Coffee Table - Wood - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 35,
+      "price": 420.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c7e1d2b4-efad-4b1b-bfdd-df5a4b63c0ea",
+      "title": "Kursi Kursi - Leather loveseat - Size Small",
+      "description": "Merupakan kursi dari kulit leluwhDR dengan tampilan comfort and style.",
+      "category": "furniture",
+      "stock": 15,
+      "price": 85.0
+    },
+    {
+      "id": "b2e3c4a5-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 50,
+      "price": 260.0
+    },
+    {
+      "id": "a8e3d4c5-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja - Coffee Table - Wood - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 35,
+      "price": 420.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Jendela - Frosted Glass - Size 24x36cm",
+      "description": "Merupakan jendela dari kaca gugus dengan transparansi tinggi.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 75.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 30,
+      "price": 295.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c7e1d2b4-efad-4b1b-bfdd-df5a4b63c0ea",
+      "title": "Kursi Kursi - Leather loveseat - Size Small",
+      "description": "Merupakan kursi dari kulit leluwhDR dengan tampilan comfort and style.",
+      "category": "furniture",
+      "stock": 15,
+      "price": 85.0
+    },
+    {
+      "id": "b2e3c4a5-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 50,
+      "price": 260.0
+    },
+    {
+      "id": "a8e3d4c5-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja - Coffee Table - Wood - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 35,
+      "price": 420.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Jendela - Frosted Glass - Size 24x36cm",
+      "description": "Merupakan jendela dari kaca gugus dengan transparansi tinggi.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 75.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 30,
+      "price": 295.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a8e3d4c5-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja - Coffee Table - Wood - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 35,
+      "price": 420.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Jendela - Frosted Glass - Size 24x36cm",
+      "description": "Merupakan jendela dari kaca gugus dengan transparansi tinggi.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 75.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 30,
+      "price": 295.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a8e3d4c5-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja - Coffee Table - Wood - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 35,
+      "price": 420.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Jendela - Frosted Glass - Size 24x36cm",
+      "description": "Merupakan jendela dari kaca gugus dengan transparansi tinggi.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 75.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 30,
+      "price": 295.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a8e3d4c5-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja - Coffee Table - Wood - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 35,
+      "price": 420.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Jendela - Frosted Glass - Size 24x36cm",
+      "description": "Merupakan jendela dari kaca gugus dengan transparansi tinggi.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 75.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 30,
+      "price": 295.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a8e3d4c5-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja - Coffee Table - Wood - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 35,
+      "price": 420.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Jendela - Frosted Glass - Size 24x36cm",
+      "description": "Merupakan jendela dari kaca gugus dengan transparansi tinggi.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 75.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 30,
+      "price": 295.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Tapestry - Handmade Art - Size Small",
+      "description": "Merupakan pakaian khas yang dibuat secara tangan dengan motif unik.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 80.0
+    },
+    {
+      "id": "b7e8f9d6-1aeb-4a6d-bf8b-d8367ea765ba",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 20,
+      "price": 390.0
+    },
+    {
+      "id": "c8e9f0a2-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Meja Kursi - Metal Table - Size Medium",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 8,
+      "price": 275.0
+    },
+    {
+      "id": "b1e2c3a4-56ab-41cd-b4ad-d2f6a3b3d7c3",
+      "title": "Jelly Bean Smartwatch",
+      "description": "Merupakan jam tangan intelektual dengan layanan Fitbit, GPS, dan layanan kesehatan.",
+      "category": "furniture",
+      "stock": 45,
+      "price": 260.0
+    },
+    {
+      "id": "a9e7b1c3-8d49-49ef-b5a3-d5e6b9e069ea",
+      "title": "Meja Kursi - Metal Table - Size Small",
+      "description": "Merupakan meja kursi dari baja dengan tampilan modern dan nyaman.",
+      "category": "furniture",
+      "stock": 10,
+      "price": 85.0
+    },
+    {
+      "id": "d9e3f2b1-6f8a-4d1b-b8bf-d1e6c1e0e7cd",
+      "title": "Meja Kursi - Metal Table - Size Large",
+      "description": "Merupakan meja esokan dari kayu dengan tampilan classic.",
+      "category": "furniture",
+      "stock": 25,
+      "price": 400.0
+    }
+  ]
 }
